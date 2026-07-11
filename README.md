@@ -122,7 +122,7 @@ aws-iam-security-audit/
     ├── 02-mfa-status.png
     ├── 03-access-key-age.png
     ├── 04-policy-review.png
-    ├── 05-root-account-check.png
+    ├── 05-roles.png
     └── 06-password-policy.png
 ```
 
@@ -134,7 +134,7 @@ aws-iam-security-audit/
 | MFA status checked | `screenshots/02-mfa-status.png` |
 | Access key age reviewed | `screenshots/03-access-key-age.png` |
 | Policies audited | `screenshots/04-policy-review.png` |
-| Root account locked down | `screenshots/05-root-account-check.png` |
+| Root account locked down | `screenshots/05-roles.png` |
 | Password policy reviewed | `screenshots/06-password-policy.png` |
 
 
