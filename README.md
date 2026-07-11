@@ -137,7 +137,6 @@ aws-iam-security-audit/
 | Root account locked down | `screenshots/05-root-account-check.png` |
 | Password policy reviewed | `screenshots/06-password-policy.png` |
 
-> Tip: Embed these directly with `![IAM Users](screenshots/01-iam-users-list.png)`
 
 ---
 
